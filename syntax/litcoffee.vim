@@ -10,7 +10,7 @@ endif
 runtime! syntax/markdown.vim
 unlet b:current_syntax
 
-syn clear markdownCode
+syn clear markdownCodeBlock
 
 syn include @coffee syntax/coffee.vim
 
