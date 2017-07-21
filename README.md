@@ -2,6 +2,8 @@
 [Literate CoffeeScript](http://coffeescript.org/#literate) to the vim text
 editor.
 
+This is a copy of [@mintplant](https://github.com/mintplant)'s original vim-literate-coffeescript, including some fixes from other GitHub users.
+
 It looks something like this:
 
 ![Preview](test/test.png)
@@ -39,7 +41,7 @@ this package.
 
  3. Clone this repository.
 
-         git clone https://github.com/mintplant/vim-literate-coffeescript.git
+         git clone https://github.com/drampelt/vim-literate-coffeescript.git
 
 ### Updating
 
